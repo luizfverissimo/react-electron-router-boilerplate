@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> 📋 Boilerplate to use React.js, React Router DOM with Electron.js
+> 📋 Boilerplate to use React.js, React Router DOM with Electron.js. Based on Jerga99 [Boilerplate](https://github.com/Jerga99/electron-react-boilerplate).
 
 ## Install
 
